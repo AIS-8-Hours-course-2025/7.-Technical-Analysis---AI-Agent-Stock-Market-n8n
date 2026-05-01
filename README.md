@@ -31,6 +31,9 @@ flowchart TD
   C -->|No| H[Agent: General reply or clarifying question]
   H --> G
 ```
+---
+
+[![Watch the Project](https://raw.githubusercontent.com/AIS-8-Hours-course-2025/7.-Technical-Analysis---AI-Agent-Stock-Market-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=X6UT5i_eJBc)
 
 ---
 
